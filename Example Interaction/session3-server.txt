@@ -1,0 +1,57 @@
+A new client is connecting
+Waiting for a new connection...
+New connection accepted from 127.0.0.1:56966
+Connection from 127.0.0.1
+Adding client 127.0.0.1
+[4] Read 9 bytes
+[4] Found newline Ibrahim
+Ibrahim has just joined.
+A new client is connecting
+Waiting for a new connection...
+New connection accepted from 127.0.0.1:56968
+Connection from 127.0.0.1
+Adding client 127.0.0.1
+[5] Read 4 bytes
+[5] Read 2 bytes
+[5] Found newline Rhys
+Rhys has just joined.
+[5] Read 14 bytes
+[5] Read 2 bytes
+[5] Found newline: follow Ibrahim
+Rhys: follow Ibrahim
+Rhys is following Ibrahim
+Ibrahim has Rhys as a follower
+A new client is connecting
+Waiting for a new connection...
+New connection accepted from 127.0.0.1:56973
+Connection from 127.0.0.1
+Adding client 127.0.0.1
+[6] Read 4 bytes
+[6] Read 2 bytes
+[6] Found newline Sean
+Sean has just joined.
+[6] Read 13 bytes
+[6] Found newline: follow Rhys
+Sean: follow Rhys
+Sean is following Rhys
+Rhys has Sean as a follower
+[4] Read 11 bytes
+[4] Read 2 bytes
+[4] Found newline: follow Rhys
+Ibrahim: follow Rhys
+Ibrahim is following Rhys
+Rhys has Ibrahim as a follower
+[4] Read 19 bytes
+[4] Found newline: send Hi everyone!
+Ibrahim: send Hi everyone!
+[4] Read 0 bytes
+Disconnect from 127.0.0.1
+Rhys is no longer following Ibrahim because they disconnected
+Ibrahim no longer has Rhys as a follower
+Removing client 4 127.0.0.1
+[6] Read 13 bytes
+[6] Read 2 bytes
+[6] Found newline: unfollow Rhys
+Sean: unfollow Rhys
+Rhys no longer has Sean as a follower
+Sean unfollows Rhys

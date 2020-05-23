@@ -1,0 +1,6 @@
+Welcome to CSC209 Twitter! Enter your username: Rhys
+Rhys has just joined.
+follow Ibrahim
+Sean has just joined.
+Ibrahim: Hi everyone!
+Goodbye Ibrahim
